@@ -24,6 +24,12 @@ p{
     padding:12px;
     border:6px solid green;
 }
+h1{
+    background-color:lightgreen;
+}
+p{
+    background-color:lightblue;
+}
 
 .container{
 
