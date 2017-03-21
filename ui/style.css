@@ -22,13 +22,16 @@ body {
 }
 p{
     padding:12px;
+    background-image:url("https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-1/c0.0.130.130/p130x130/14570452_1114000098714261_1347179252977291984_n.jpg?oh=2920056dc213fbd3ba5827c5f2f6e508&oe=595B6C8B");
+    
     border:6px solid green;
 }
 p{
     background-color:red;
 }
 body{
-    background-image:url("https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-1/c0.0.130.130/p130x130/14570452_1114000098714261_1347179252977291984_n.jpg?oh=2920056dc213fbd3ba5827c5f2f6e508&oe=595B6C8B");
+    background-image:url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ2NDZPenV1c4Wim4h71KZyzk277h95us1AnEgQHlHm8mTiR4G"
+    
 }
 
 .container{
