@@ -8,8 +8,8 @@ app.use(morgan('combined'));
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
-app.get('/t', function (req, res) {
-  res.send('Talent is a myth');
+app.get('/', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'thoughts.html'));
 });
 var cunter=0;
 app.get('/counter',function(req, res){
